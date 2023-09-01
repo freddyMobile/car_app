@@ -127,6 +127,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   CircleAvatar(
                     backgroundColor: Colors.black,
                     radius: 40,
+                    backgroundImage: NetworkImage(
+                        'https://cdn.wallpapersafari.com/27/43/7rGTPL.jpg'),
                   ),
                   SizedBox(
                     height: 20,
@@ -142,6 +144,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   CircleAvatar(
                     backgroundColor: Colors.black,
                     radius: 40,
+                    backgroundImage: NetworkImage(
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmQ6NGMDU440KWVCudi4D_jKn6BdlMe98qnw&usqp=CAU'),
                   ),
                   SizedBox(
                     height: 20,
@@ -157,6 +161,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   CircleAvatar(
                     backgroundColor: Colors.black,
                     radius: 40,
+                    backgroundImage: NetworkImage(
+                        'https://i.pinimg.com/1200x/1d/8c/6f/1d8c6fc987c879cedb0d42fe5135d146.jpg'),
                   ),
                   SizedBox(
                     height: 20,
@@ -172,6 +178,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   CircleAvatar(
                     backgroundColor: Colors.black,
                     radius: 40,
+                    backgroundImage: NetworkImage(
+                        'https://static.vecteezy.com/system/resources/previews/020/498/772/original/mazda-logo-symbol-brand-car-with-name-white-design-japan-automobile-illustration-with-black-background-free-vector.jpg'),
                   ),
                   SizedBox(
                     height: 20,
